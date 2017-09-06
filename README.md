@@ -1,6 +1,6 @@
 # Knowledge-Graph-API
 
-Just a shell script that makes a request and reads out the response. 
+Just a bash script that makes a request and reads out the response. 
 
 ## Requirements
 
